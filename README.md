@@ -1,4 +1,4 @@
-## Hi, I'm Gafna 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankyaku&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankyaku&layout=compact&theme=radical)
+## Hello, there!! 👋
+![Visitor Count](https://komarev.com/ghpvc/?username=gafnaa&color=blue&style=flat)
+
 

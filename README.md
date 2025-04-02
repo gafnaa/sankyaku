@@ -6,3 +6,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gafnaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## My CTF Profiles
+https://play.picoctf.org/users/s4nkya
+https://ctf.hackthebox.com/user/profile/648296
+https://ctflearn.com/user/sankya

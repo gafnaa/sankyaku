@@ -5,7 +5,3 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=gafnaa&color=blue&style=flat)
 [![](https://visitcount.itsvg.in/api?id=gafnaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## My CTF Profiles
-- [PicoCTF](https://play.picoctf.org/users/s4nkya)
-- [Hack The Box](https://ctf.hackthebox.com/user/profile/648296)
-- [CTFlearn](https://ctflearn.com/user/sankya)
